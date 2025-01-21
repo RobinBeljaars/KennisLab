@@ -1,5 +1,2 @@
-# KennisLab
-A repo to practice my development knowledge
-
-Rules:
-  1: use submodules from git to manage each git exercise indivisually with their own CI/CD pipelines
+# Gamification
+Deze map is een verzameling van projecten die draaien om gamification. Mijn ervaaring met gamification is momenteel voornamelijk met Unity
